@@ -21,3 +21,7 @@ A programmable handheld remote compatible with both gaming consoles and unmanned
 | 14 | 220Ω resistor | 2 | Regulates current flow to prevent damage when illuminating red LEDs. | 
 | 15 | 10kΩ resistor | 1 | turns on white led safely |
 | 16 | lm256 buck converter | 2 | safely steps down voltage to 5v to turn on arduino nano |
+| 17 | female head pins set | 2 | To place nano on both of the perfboard |
+
+what I want to write in readme file is that :
+for now I have configured this remote to play simple video game called "beach buggy" with it's control configured according to the game also to be able to run the game on the laptop you have to run the python script in the background which I have provided in this repo you will have to create a . 
