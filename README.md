@@ -4,7 +4,7 @@ A programmable handheld remote compatible with both gaming consoles and unmanned
 ## Hardware Required
 
 |Sr no. | Component | Quantity | Notes |
-|---|---|---|
+|---|---|---|---|
 | 1 | Arduino Nano | 2 | 1 for transmitter, 1 for receiver |
 | 2 | NRF24L01+PA+LNA module | 2 | Long-range variant with external antenna |
 | 3 | Analog Joystick module | 2 | X/Y axis + push button |
@@ -21,4 +21,3 @@ A programmable handheld remote compatible with both gaming consoles and unmanned
 | 14 | 220Ω resistor | 2 | Regulates current flow to prevent damage when illuminating red LEDs. | 
 | 15 | 10kΩ resistor | 1 | turns on white led safely |
 | 16 | lm256 buck converter | 2 | safely steps down voltage to 5v to turn on arduino nano |
- 
