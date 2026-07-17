@@ -72,9 +72,6 @@ Right now, this build is configured to play **Beach Buggy Racing**, with the joy
 
 </div>
 
-> [!NOTE]
-> Place your image files inside `docs/images/` in the repo, using the **exact same filenames** shown above (or update the filenames in this table to match yours). GitHub will automatically render them here — no extra steps needed once the files are pushed.
-
 ---
 
 ## 🎬 Demo
@@ -92,10 +89,11 @@ Right now, this build is configured to play **Beach Buggy Racing**, with the joy
 
 ## 🔌 Wiring / Connections
 | Schematic of Transmitter | 
-| --- |
+| :---: |
 ![Schematic of Transmitter](docs/images/transmitter_schematic.png)
+
 | Schematic of Receiver |
-| --- |
+| :---: |
 ![Schematic of Receiver](docs/images/receiver_schematic.png)
 
 
