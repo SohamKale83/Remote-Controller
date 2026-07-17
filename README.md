@@ -91,8 +91,11 @@ Right now, this build is configured to play **Beach Buggy Racing**, with the joy
 ---
 
 ## 🔌 Wiring / Connections
-
+| Schematic of Transmitter | 
+| --- |
 ![Schematic of Transmitter](docs/images/transmitter_schematic.png)
+| Schematic of Receiver |
+| --- |
 ![Schematic of Receiver](docs/images/receiver_schematic.png)
 
 
