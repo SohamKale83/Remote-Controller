@@ -137,6 +137,11 @@ If you'd rather not use Git, you can copy-paste the code directly:
 > Make sure you flash the **transmitter code onto the transmitter's Nano** and the **receiver code onto the receiver's Nano** — flashing the wrong sketch onto either board will prevent the link from working.
 
 ---
+## Future improvement 
+
+1. OLed screen be added to monitor the battery health with joystick movement.
+
+---
 
 ## 🎮 How to Use
 
