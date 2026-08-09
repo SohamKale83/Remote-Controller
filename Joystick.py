@@ -31,7 +31,7 @@ try:
 
                     if left_sw == 0:
                         left_count += 1
-                        if left_count == 4:
+                        if left_count == 2:
                             keyboard.press("a")
                     else:
                         left_count = 0
@@ -39,7 +39,7 @@ try:
 
                     if right_sw == 0:
                         right_count += 1
-                        if(right_count == 4):
+                        if(right_count == 2):
                             keyboard.press("space")
                     else:
                         right_count = 0
@@ -47,7 +47,7 @@ try:
 
                     if push_button == 0:
                         push_count +=1
-                        if push_count == 4:
+                        if push_count == 2:
                             keyboard.press("enter")
                     else:
                         push_count = 0
