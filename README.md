@@ -137,9 +137,12 @@ If you'd rather not use Git, you can copy-paste the code directly:
 > Make sure you flash the **transmitter code onto the transmitter's Nano** and the **receiver code onto the receiver's Nano** — flashing the wrong sketch onto either board will prevent the link from working.
 
 ---
-## Future improvement 
+## 🔭 Future Plans
 
-1. OLed screen be added to monitor the battery health with joystick movement.
+- 📟 Add an **OLED display** to show real-time joystick input and battery health status directly on the device.
+- ✈️ Upload firmware for the **drone flight controller** and **RC plane**, currently in development.
+- 🖨️ Design a 3D-printed enclosure for a cleaner, more durable handheld build.
+- 🔋 Add low-power / sleep mode to extend battery life when the remote is idle.
 
 ---
 
