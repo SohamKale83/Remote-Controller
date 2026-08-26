@@ -83,7 +83,7 @@ Right now, this build is configured to play **Beach Buggy Racing**, with the joy
 </div>
 
 > [!NOTE]
-> The working demo of this project will be uploaded in near future. 
+> The working demo of this project will be uploaded in near future.
 
 ---
 
@@ -166,16 +166,14 @@ If you'd rather not use Git, you can copy-paste the code directly:
 Remote-Controller/
 ├── docs/
 │   └── images/
-├── transmitter/
-│   └── transmitter.ino
 ├── receiver/
 │   └── receiver.ino
-├── scripts/
-│   └── game_control.py
-├── hardware/
-│   └── bom.md
-├── README.md
-└── LICENSE
+├── transmitter/
+│   └── transmitter.ino
+├── Joystick.py
+├── LICENSE
+└── README.md
+
 ```
 
 ## 📄 License
