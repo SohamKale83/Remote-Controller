@@ -83,7 +83,7 @@ Right now, this build is configured to play **Beach Buggy Racing**, with the joy
 </div>
 
 > [!NOTE]
-> Drop your demo GIF into `docs/images/working_demo.gif` (or update the path above) and it will auto-play right here on the repo page.
+> The working demo of this project will be uploaded in near future. 
 
 ---
 
